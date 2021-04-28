@@ -1,0 +1,3 @@
+flask-sqlalchemy==2.5.1
+flask-restful==0.3.8pip
+python-dotenv==0.17.0
